@@ -1,0 +1,66 @@
+﻿  FFT.cpp
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(32,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(56,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(56,67): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(61,15): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(61,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(61,87): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(70,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(70,67): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(75,15): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(75,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(75,87): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(99,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(99,67): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(106,15): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(106,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(106,87): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(114,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(114,44): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(118,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(119,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(119,44): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(128,8): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(128,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(128,64): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(132,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(133,8): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(133,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(133,64): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(156,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(165,26): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(192,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(206,31): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(244,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(269,59): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(282,31): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\type_traits(1490,98): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\thread(51): message : 查看对正在编译的函数 模板 实例化“void std::invoke<void(__cdecl *)(std::vector<cd,std::allocator<cd>> &,std::vector<cd,std::allocator<cd>> &,int,int,int,int),std::reference_wrapper<std::vector<cd,std::allocator<cd>>>,std::reference_wrapper<std::vector<cd,std::allocator<cd>>>,unsigned __int64,int,int,int>(_Callable &&,_Ty1 &&,std::reference_wrapper<std::vector<cd,std::allocator<cd>>> &&,unsigned __int64 &&,int &&,int &&,int &&) noexcept(false)”的引用
+          with
+          [
+              _Callable=void (__cdecl *)(std::vector<cd,std::allocator<cd>> &,std::vector<cd,std::allocator<cd>> &,int,int,int,int),
+              _Ty1=std::reference_wrapper<std::vector<cd,std::allocator<cd>>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\thread(61): message : 查看对正在编译的函数 模板 实例化“unsigned int std::thread::_Invoke<_Tuple,0,1,2,3,4,5,6>(void *) noexcept”的引用
+          with
+          [
+              _Tuple=_Tuple
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\thread(66): message : 查看对正在编译的函数 模板 实例化“unsigned int (__cdecl *std::thread::_Get_invoke<_Tuple,0,1,2,3,4,5,6>(std::integer_sequence<size_t,0,1,2,3,4,5,6>) noexcept)(void *)”的引用
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\thread(89): message : 查看对正在编译的函数 模板 实例化“void std::thread::_Start<void(__cdecl &)(std::vector<cd,std::allocator<cd>> &,std::vector<cd,std::allocator<cd>> &,int,int,int,int),_Ty,_Ty,unsigned __int64,int&,int,int>(_Fn,_Ty &&,_Ty &&,unsigned __int64 &&,int &,int &&,int &&)”的引用
+          with
+          [
+              _Ty=std::reference_wrapper<std::vector<cd,std::allocator<cd>>>,
+              _Fn=void (__cdecl &)(std::vector<cd,std::allocator<cd>> &,std::vector<cd,std::allocator<cd>> &,int,int,int,int)
+          ]
+C:\Users\dxie0\Source\Repos\FFT\FFT.cpp(189): message : 查看对正在编译的函数 模板 实例化“std::thread::thread<void(__cdecl &)(std::vector<cd,std::allocator<cd>> &,std::vector<cd,std::allocator<cd>> &,int,int,int,int),std::reference_wrapper<std::vector<cd,std::allocator<cd>>>,std::reference_wrapper<std::vector<cd,std::allocator<cd>>>,unsigned __int64,int&,int,int,0>(_Fn,std::reference_wrapper<std::vector<cd,std::allocator<cd>>> &&,std::reference_wrapper<std::vector<cd,std::allocator<cd>>> &&,unsigned __int64 &&,int &,int &&,int &&)”的引用
+          with
+          [
+              _Fn=void (__cdecl &)(std::vector<cd,std::allocator<cd>> &,std::vector<cd,std::allocator<cd>> &,int,int,int,int)
+          ]
+  正在生成代码
+  158 of 547 functions (28.9%) were compiled, the rest were copied from previous compilation.
+    54 functions were new in current compilation
+    36 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  FFT.vcxproj -> C:\Users\dxie0\Source\Repos\FFT\x64\Release\FFT.exe
